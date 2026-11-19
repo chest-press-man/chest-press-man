@@ -1,8 +1,5 @@
 <div align="center">
   <h2>👋 안녕하세요! 미래를 그리는 개발자 손성원입니다.</h2>
-  <a href="https://chest-press-man.github.io/my-portpolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_웹_포트폴리오_보러가기-0052CC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 <br />
@@ -27,8 +24,19 @@
 
 <br />
 
-### 🚀 Projects & Activities
-- **Eum Project (App):** UMC 9th 활동 이후 시니어 소개팅 웹앱 개발에 이어 모바일 앱 실제 런칭을 목표로 진행 중
+### 🤝 Team Projects
+
+| 프로젝트 | 기간 | 역할 | 주요 기여 |
+|---|---|---|---|
+| **[이음 (EUM) 앱](https://github.com/UMC-Eum/Frontend)**<br/>50+ 세대를 위한 음성 기반 데이팅 앱 | 2026.04 ~ 08 | Frontend (React Native) | FCM 푸시 알림(iOS/Android), iOS App Store·Google Play 배포 파이프라인, 동호회·추천 기능 · **PR 40개** |
+| **[이음 (EUM) 웹앱](https://github.com/UMC-Eum/UMC-Frontend)** | 2025.12 ~ 2026.02 | Frontend (React) | WebSocket 실시간 채팅, 미디어 전송, 차단·좋아요 기능 · **PR 34개** |
+| **[오늘의 터](https://github.com/todays-ter/todays-ter-frontend)** · [서비스](https://todays-ter-frontend.vercel.app) | 2026.06 ~ 08 | Frontend (React) | 장소 저장·길찾기·알림 API 연동, 로딩·빈 상태 처리, 세션 만료 처리 개선 · **PR 31개** |
+| **[OPT 홈페이지](https://github.com/optofficial2026/OPT-Homepage)** | 2026.07 ~ 08 | Frontend | 홈·소개·활동 페이지 구축, 모집 배너·팝업 · **PR 20개** |
+
+### 🔬 Personal Projects
+- **[Memory Maze LeWM](https://github.com/chest-press-man/memorymaze-lewm)** — 월드 모델 베이스라인: 데이터 준비, 인코더/예측기 학습, latent rollout, linear probing
+
+### 🚀 Activities
 - **UMC 10th HUFS:** 회장으로 활동하며 동아리 웹 챌린저 운영
 - **OPT IT 팀 리더:** AI 이론 스터디 및 웹 동아리 팀 운영
 
@@ -36,9 +44,7 @@
 
 ### 📫 Contact Me
 <div align="left">
-  <a href="mailto:seongwon196@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/handcastle1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-</div>
+  <a href="mailto:seongwon196@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a></div>
 
 <br />
 
