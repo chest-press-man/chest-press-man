@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=Son%20Seongwon&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Frontend%20%E2%86%92%20Full-stack%20%C2%B7%20AI%20%26%20Physical%20AI&descSize=18&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=Son%20Seongwon&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Frontend%20%E2%86%92%20Full-stack%20%C2%B7%20AI%20and%20Physical%20AI&descSize=18&descAlignY=56" width="100%" />
 
 ### 👋 안녕하세요, 서비스를 끝까지 출시하는 개발자 손성원입니다
 
