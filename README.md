@@ -31,6 +31,7 @@
 | **[이음 (EUM) 앱](https://github.com/UMC-Eum/Frontend)**<br/>50+ 세대를 위한 음성 기반 데이팅 앱 | 2026.04 ~ 08 | Frontend (React Native) | FCM 푸시 알림(iOS/Android), iOS App Store·Google Play 배포 파이프라인, 동호회·추천 기능 · **PR 40개** |
 | **[이음 (EUM) 웹앱](https://github.com/UMC-Eum/UMC-Frontend)** | 2025.12 ~ 2026.02 | Frontend (React) | WebSocket 실시간 채팅, 미디어 전송, 차단·좋아요 기능 · **PR 34개** |
 | **[오늘의 터](https://github.com/todays-ter/todays-ter-frontend)** · [서비스](https://todays-ter-frontend.vercel.app) | 2026.06 ~ 08 | Frontend (React) | 장소 저장·길찾기·알림 API 연동, 로딩·빈 상태 처리, 세션 만료 처리 개선 · **PR 31개** |
+| **[PMI 연구실 홈페이지](https://github.com/PMI-LAB-HomePage/HUFS-PMI-LAB-Homepage)** · [서비스](https://pmi.hufs.ac.kr) | 2026.09 ~ 11 | 단독 개발·배포 (Django) | 노션 데이터 이전, 관리자 페이지, Docker Compose·Caddy 배포, push 후 자동 배포, SEO · **커밋 25개** |
 | **[OPT 홈페이지](https://github.com/optofficial2026/OPT-Homepage)** | 2026.07 ~ 08 | Frontend | 홈·소개·활동 페이지 구축, 모집 배너·팝업 · **PR 20개** |
 
 ### 🔬 Personal Projects
